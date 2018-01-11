@@ -1,4 +1,4 @@
-<H1>tESTING Quaqua</H1>
+<H1>TESTING Framework Quaqua</H1>
 
 Poryecto creado para realizar pruebas
 para el UI Framework Quaqua -> Java
