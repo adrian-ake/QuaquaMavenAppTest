@@ -1,5 +1,7 @@
+<H1>tESTING Quaqua</H1>
+
 Poryecto creado para realizar pruebas
-para el UI Framework -> Java
+para el UI Framework Quaqua -> Java
 
 Solo es para realizar pruebas y visualizar el cambio
 para la interfaz gráfica de los distintos controles y componentes.
